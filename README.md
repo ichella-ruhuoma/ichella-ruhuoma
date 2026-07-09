@@ -15,7 +15,7 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
 
   ## projects
   | project | | Description | | Respitory |
-  | ------- | | ----------- | | --------- |
+  |---------| |-------------| |-----------|
   | OSINT Investigation| |Conducted an OSINT investigation on a target organization | Coming soon |
   | Log Analysis | Analyzed IIS and Windows Event Logs to identify attacks | coming soon |
 
